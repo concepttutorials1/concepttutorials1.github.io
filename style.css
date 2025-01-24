@@ -1,0 +1,83 @@
+@font-face { font-family: Ubuntu; src: url('assets/Ubuntu-Regular.ttf'); }
+
+body{
+	font-family: Ubuntu;
+	background: white;
+	color: black;
+
+}
+
+h1{
+	max-width: 300px;
+	color: black;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+}
+h3{
+	max-width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.img{
+
+	opacity: 0.3;
+	position: absolute;
+	margin-left: -10px;
+	margin-right: auto;
+	margin-top: -100px;
+}
+
+button{
+	
+	margin-left: 400px;
+	margin-top: 100px;	
+	padding: 10px 40px;
+	font-size:  20px;
+	font-family: Ubuntu;
+	transition: 0.8s;
+}
+
+button:hover{
+	color: black;
+}
+
+.join{
+	max-width: 600px;
+	margin-top: -100px;
+	margin-left: 10px;
+	color: black;
+}
+
+.abt{
+	max-width: 600px;
+	margin-top: px;
+	margin-left: auto;
+	color: black;
+}
+
+.btn1{
+
+	max-width: 900px;
+	margin-left: auto;
+}
+.btn2{
+	max-width: 800px;
+	margin-top: -100px;
+}
+
+h2{
+	max-width: 300px;
+	color: black;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+}
+
+.solution{
+		max-width: 300px;
+	color: black;
+	margin-left: auto;
+	margin-right: auto;
+
+}
